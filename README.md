@@ -21,6 +21,7 @@ I'm a passionate **Full-Stack Developer** who enjoys building sleek web and bloc
 #### Backend & Blockchain
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white&style=flat)
+![Foundry](https://img.shields.io/badge/-Foundry-000000?logo=ethereum&logoColor=white&style=flat)
 
 #### DevOps & Testing
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat)
