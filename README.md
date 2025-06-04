@@ -23,6 +23,8 @@ I'm a passionate **Full-Stack Developer** who enjoys building sleek web and bloc
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 ![ShadCN](https://img.shields.io/badge/-ShadCN-000?style=flat&logo=radixui&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?logo=vuetify&logoColor=white&style=flat)
+![Nuxt UI](https://img.shields.io/badge/-Nuxt%20UI-00DC82?logo=nuxt.js&logoColor=white&style=flat)
+
 
 
 #### Backend & Blockchain
