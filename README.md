@@ -41,7 +41,7 @@ I'm a passionate **Full-Stack Developer** who enjoys building sleek web and bloc
 
 ### 🌐 Connect With Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel)](https://victory-ndu-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel)](https://vic-ndu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victory-ndu-1a3693156/)
 
 ---
