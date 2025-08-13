@@ -46,10 +46,6 @@ I'm a passionate **Full-Stack Developer** who enjoys building sleek web and bloc
 
 ---
 
-### 📈 GitHub Stats
-
-![Victory's GitHub Stats](https://github-readme-stats.vercel.app/api?username=victoryeddy&show_icons=true&theme=radical&rank_icon=github)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victoryeddy&layout=compact&theme=radical)
 
 ---
