@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Victory E.N
+### Hi there 👋 I'm Victory E
 
 I'm a passionate **Full-Stack Developer** who enjoys building sleek web and blockchain applications. I specialize in modern JavaScript frameworks, UI design systems, and smart contract development.
 
