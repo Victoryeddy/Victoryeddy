@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Victory E
 
-I'm a passionate **Full-Stack Developer** who enjoys building sleek web and blockchain applications. I specialize in modern JavaScript frameworks, UI design systems, and smart contract development.
+I'm a passionate **Full-Stack Developer, Security Researcher and QA Tester** who enjoys building sleek web and blockchain applications. I specialize in modern JavaScript frameworks, UI design systems, and smart contract development.
+
+(https://res.cloudinary.com/dc4lrxpss/image/upload/v1755167369/Victory_E-stats_jqgzaq.png)
 
 ---
 
