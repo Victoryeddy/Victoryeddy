@@ -46,11 +46,7 @@ I'm a passionate **Full-Stack Developer, Security Researcher and QA Tester** who
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel)](https://vic-ndu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victory-ndu-1a3693156/)
 
----
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victoryeddy&layout=compact&theme=radical)
-
----
 
 ### ⚡ Fun Fact
 
